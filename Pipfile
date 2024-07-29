@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 docx2pdf = "*"
 pdf2docx = "*"
+pillow = "*"
+python-pptx = "*"
 
 [dev-packages]
 
