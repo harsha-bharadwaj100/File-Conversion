@@ -8,6 +8,8 @@ docx2pdf = "*"
 pdf2docx = "*"
 pillow = "*"
 python-pptx = "*"
+openpyxl = "*"
+pandas = "*"
 
 [dev-packages]
 
